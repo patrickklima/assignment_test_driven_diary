@@ -1,0 +1,24 @@
+{
+  "name": "test-driven-diary",
+  "version": "1.0.0",
+  "description": "Build a command line diary interface, driven and protected by a suite of comprehensive tests.",
+  "manvm in": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickklima/assignment_test_driven_diary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickklima/assignment_test_driven_diary/issues"
+  },
+  "homepage": "https://github.com/patrickklima/assignment_test_driven_diary#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4"
+  }
+}
